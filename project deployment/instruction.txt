@@ -1,0 +1,18 @@
+Instruction for project lnch ......@
+1.install anaconda 
+2.open jupyter notebook and create your project 
+3. deployment your ML file 
+4. load your Deployment ML file (another .py file ) 
+5.how to lounch ML file into web 
+   i)open spyder software (include anaconda )
+   ii) go to project -> new project -> create 
+   iii) if file directory ! show 
+        go to view -> panes-> project 
+    iv) right click on project folder -> new -> folder 
+        static      ( for image)
+    v)   right click on project folder -> new -> folder 
+        templates    (for html file)
+    vi)   right click on project folder -> new -> python file 
+         app 
+    vii) right click on templates folder -> new -> file
+        index.html    
